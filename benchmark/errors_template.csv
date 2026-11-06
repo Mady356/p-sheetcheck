@@ -1,1 +1,1 @@
-workbook,sheet,cell,correct_formula,corrupted_formula,error_type
+error_id,workbook,sheet,cell,correct_formula,corrupted_formula,error_type,correct_value,corrupted_value,value_changes,injection_method,notes
